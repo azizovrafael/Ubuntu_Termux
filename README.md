@@ -9,7 +9,7 @@ Ubuntu Terminal for Termux (Android)
 4. Install git: `apt-get install git -y`
 5. Go to HOME folder: `cd ~`
 6. Download script: `git clone https://github.com/azizovrafael/Ubuntu_Termux.git`
-7. Go to script folder: `cd ubuntu-in-termux`
+7. Go to script folder: `cd Ubuntu_Termux`
 8. Give execution permission: `chmod +x ubuntu.sh`
 9. Run the script: `./ubuntu.sh -y`
 10. Now just start ubuntu: `./startubuntu.sh`
